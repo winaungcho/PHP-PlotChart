@@ -1,6 +1,6 @@
 # PHP-PlotChart
 This class generate chart image with various options defined by associative array (JSON).
-[PHP-PlotChart](https://github.com/winaungcho/PHP-PlotChart/blob/main/images/usage4.png)
+![PHP-PlotChart](https://github.com/winaungcho/PHP-PlotChart/blob/main/images/usage4.png)
 ## Data
 Chart drawing settings and plot data are prepared using associative array. Default associative keys are shown bellow.
 ### Chart setting
@@ -131,7 +131,8 @@ Chart drawing settings and plot data are prepared using associative array. Defau
     $plotchart->plotGraph($data);
     $plotchart->viewImage();
 ````
-### Usage 1
+![PHP-PlotChart](https://github.com/winaungcho/PHP-PlotChart/blob/main/images/usage1.png)
+### Usage 2
 ````php
     // usage 2
     // add + example 4
@@ -140,7 +141,8 @@ Chart drawing settings and plot data are prepared using associative array. Defau
     $plotchart->plotGraph($f);
     $plotchart->viewImage();
 ````
-### Usage 1
+![PHP-PlotChart](https://github.com/winaungcho/PHP-PlotChart/blob/main/images/usage2.png)
+### Usage 3
 ````php
     // usage 3
     // add + example 1 + example 3
@@ -150,7 +152,8 @@ Chart drawing settings and plot data are prepared using associative array. Defau
     $plotchart->plotGraph($data);
     $plotchart->viewImage();
 ````
-### Usage 1
+![PHP-PlotChart](https://github.com/winaungcho/PHP-PlotChart/blob/main/images/usage3.png)
+### Usage 4
 ````php
     // usage 4
     // add + example 2 + example 3 + example 4
@@ -162,3 +165,4 @@ Chart drawing settings and plot data are prepared using associative array. Defau
     $plotchart->plotGraph($f);
     $plotchart->viewImage();
 ````
+![PHP-PlotChart](https://github.com/winaungcho/PHP-PlotChart/blob/main/images/usage4.png)
