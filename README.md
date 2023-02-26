@@ -166,3 +166,5 @@ Chart drawing settings and plot data are prepared using associative array. Defau
     $plotchart->viewImage();
 ````
 ![PHP-PlotChart](https://github.com/winaungcho/PHP-PlotChart/blob/main/images/usage4.png)
+## Contact
+Contact me for comercial use via mail winaungcho@gmail.com.
