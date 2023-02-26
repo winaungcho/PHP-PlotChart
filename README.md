@@ -33,7 +33,7 @@ Chart drawing settings and plot data are prepared using associative array. Defau
         back_rgb => 'FAFAFA',
         chart_rgb => 'EDEDED',
         
-        // Stribg of titles
+        // String of titles
         strtitle => "This is TITLE",
         strstitle => "Subtitle",
         strstitlex => "Title X",
